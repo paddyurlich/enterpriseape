@@ -1,3 +1,7 @@
+PU - saw this on youtube.  Import CSV without any gems
+This works however there is no validation or error saving
+
+
 Enterprise Ape
 ==============
 
